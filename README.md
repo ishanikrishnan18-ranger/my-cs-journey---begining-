@@ -1,4 +1,4 @@
-# my-cs-journey---begining 🎉
+# my cs journey The Beginning 😁🎉
 Toady I mark the day of me entering into the vast and complex world of computer science and ofcourse starting from the very bottom, which brings me to decribe my today's progress 
 
 Day 1-:
