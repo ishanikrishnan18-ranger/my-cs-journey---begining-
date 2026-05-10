@@ -1,0 +1,4 @@
+name = Alice
+age = 20
+marks = 80.5
+print(ininstance(marks,float))
