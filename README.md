@@ -6,6 +6,7 @@ Day 1-:
 - Created my first GitHub repo .
 - Joined leet code but got soo terrified and confused so have kept it on side for the time being.
 - Watched Harvard C50 yt video for 30 minutes and explored some projects made by harvardians .
+- Finsihed Crime And Punishment by Fyodor Doestovesky, absolutely loved it ahhh, those 7 months of consistent reading paid off really well 😆😌.
 
 Day 2 and Day 3 took much needed complete break from the hustle of exams and maths by watching spirited away, reading can't hurt me by David Goggins, the Secret History by Donna Tartt and also took two long days break from my swimming classes.
 
