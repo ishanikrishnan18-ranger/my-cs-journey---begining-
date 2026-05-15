@@ -16,3 +16,7 @@ In coding finsihed into to strings and mathematical operations on python from fr
 Class 12 cbse boards results were announced, got 74 percent, got crushed to the soul but feeling pretty positively numb about it , I know it's a scar that's gonna sting for a very very long time but that's what life is perhaps.
 I lost my way with water today when I entered the pool, today's day started with this headache and ended with heart wrenching pain of lifelong guilt of not being able to do enough.
 Guess life is really not obliged to give what one expects from it.
+Day 5-:
+Today got selected in SRM Ramapauram in Computer Science AI/ML, and spent the entire day in dilemma and trauma to whether attend SRM Ramapauram i.e. away from home as a single girl child for the first time from Indore to Chennai or stay at indore and study at the comfort of my home .
+Day 6-:  
+Same as day 5, but landed on the conclusion that I should stay at indore and pursue btech from medicaps and not spend 30+lakhs on btech ug especially for a tier 3 college away from home.
