@@ -12,7 +12,7 @@ Day 2 and Day 3 took much needed complete break from the hustle of exams and mat
 
 Day 4-:
 A Day which tested my whole purpose of existence and overall very gloomy and disappointing 
-In coding finsihed into to strings and mathematical operations on python from freecodecamp , loved every second of it , very refreshing, probably the only best part of today's day.
+In coding finsihed introduction to strings and mathematical operations on python from freecodecamp , loved every second of it , very refreshing, probably the only best part of today's day.
 Class 12 cbse boards results were announced, got 74 percent, got crushed to the soul but feeling pretty positively numb about it , I know it's a scar that's gonna sting for a very very long time but that's what life is perhaps.
 I lost my way with water today when I entered the pool, today's day started with this headache and ended with heart wrenching pain of lifelong guilt of not being able to do enough.
 Guess life is really not obliged to give what one expects from it.
