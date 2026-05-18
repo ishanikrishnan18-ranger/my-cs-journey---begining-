@@ -24,5 +24,8 @@ Day 7-:
 Finished 
 
 Day 8-:
-Did coding for two straight hours , completed mathematical functions and conditional loops in python from freecodecamp, so far things are going very smoothly and I think I am getting a knack of this cs world . 
+Did coding for two straight hours ,completed Build a Bill Splitter Workshop and also  mathematical functions and conditional loops in python from freecodecamp, so far things are going very smoothly and I think I am getting a knack of this cs world . 
 Scored 59 marks in COMEDK , was totally devastated but still kept going, this also gave me the confirmation to join medicaps Indore. Have decided to opt for CS with AI/ML. My uncle told me not burn out at all, every day one hour of coding is more than enough and that in this world, consistency beats intensity, this will be my motto. 
+
+Day 9
+Successfully completed a workshop to build a Movie Ticket Booking Calculator 
