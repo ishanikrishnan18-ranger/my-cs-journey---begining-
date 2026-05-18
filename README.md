@@ -20,3 +20,9 @@ Day 5-:
 Today got selected in SRM Ramapauram in Computer Science AI/ML, and spent the entire day in dilemma and trauma to whether attend SRM Ramapauram i.e. away from home as a single girl child for the first time from Indore to Chennai or stay at indore and study at the comfort of my home .
 Day 6-:  
 Same as day 5, but landed on the conclusion that I should stay at indore and pursue btech from medicaps and not spend 30+lakhs on btech ug especially for a tier 3 college away from home.
+Day 7-:
+Finished 
+
+Day 8-:
+Did coding for two straight hours , completed mathematical functions and conditional loops in python from freecodecamp, so far things are going very smoothly and I think I am getting a knack of this cs world . 
+Scored 59 marks in COMEDK , was totally devastated but still kept going, this also gave me the confirmation to join medicaps Indore. Have decided to opt for CS with AI/ML. My uncle told me not burn out at all, every day one hour of coding is more than enough and that in this world, consistency beats intensity, this will be my motto. 
